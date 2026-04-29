@@ -28,11 +28,13 @@ g++ catalan.cpp -o catalan
 
 
 
-Run:
-./catalan <number>
+Run: 
+
+./catalan 5
 
 Output:
-<number>
+
+42
 
 
 ## Concepts Demonstrated
